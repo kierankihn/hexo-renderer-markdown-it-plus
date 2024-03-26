@@ -35,7 +35,6 @@
     "markdown-it-mark": "^3.0.1",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
-    "markdown-it-toc": "^1.1.0",
     "uslug": "^1.0.4"
   }
 }
