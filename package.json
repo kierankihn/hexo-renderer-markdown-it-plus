@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus#readme",
   "dependencies": {
-    "@iktakahiro/markdown-it-katex": "^4.0.1",
+    "@kierankihn/markdown-it-katex": "^4.0.2",
     "clone": "^2.1.1",
     "highlight.js": "^11.5.1",
     "markdown-it": "^13.0.1",

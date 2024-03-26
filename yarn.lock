@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@iktakahiro/markdown-it-katex@^4.0.1":
+"@kierankihn/markdown-it-katex@^4.0.1":
   version "4.0.1"
-  resolved "https://registry.npmmirror.com/@iktakahiro/markdown-it-katex/-/markdown-it-katex-4.0.1.tgz#65ff9d12afd4c0b7684dd247abe7ce42fc1edac3"
+  resolved "https://registry.npmmirror.com/@kierankihn/markdown-it-katex/-/markdown-it-katex-4.0.1.tgz#65ff9d12afd4c0b7684dd247abe7ce42fc1edac3"
   integrity sha512-kGFooO7fIOgY34PSG8ZNVsUlKhhNoqhzW2kq94TNGa8COzh73PO4KsEoPOsQVG1mEAe8tg7GqG0FoVao0aMHaw==
   dependencies:
     katex "^0.12.0"
